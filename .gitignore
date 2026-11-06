@@ -1,0 +1,23 @@
+# Build output
+bin/
+out/
+*.class
+
+# Packaged app and archives
+*.exe
+*.zip
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Secrets / local config
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
